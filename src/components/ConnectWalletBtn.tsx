@@ -5,8 +5,9 @@ const ConnectWalletBtn = () => {
         <div style={{
             width: 200,
             position: 'absolute',
-            right: 10,
-            top: 10
+            right: 15,
+            top: 17,
+            zIndex: 10
         }}>
             <ConnectWallet />
         </div>
